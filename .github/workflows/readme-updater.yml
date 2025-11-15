@@ -3,9 +3,6 @@ name: README Updater
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -28,6 +25,4 @@ jobs:
         with:
           COMMIT_MSG: "docs: update README with recent activity"
           MAX_LINES: 10
-          README_PATH: "./README.md"
-          START_COMMENT: "<!--START_SECTION:activity-->"
-          END_COMMENT: "<!--END_SECTION:activity-->"
+          TARGET_FILE: "./README.md"
