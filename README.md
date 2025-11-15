@@ -82,12 +82,13 @@ I am a results-oriented engineering leader with a passion for building and scali
 
 ---
 
-### 📜 Licenses & Certifications
+### 💼 Professional Experience incl. Ventures
 
--   Cloudera Certified Developer for Apache Hadoop (CCDH)
--   SAS Certified Statistical Business Analyst & Base Programmer
--   NVIDIA Deep Learning Institute Trained
--   Multiple specializations in Data Science and Big Data from Coursera & edX
+- **Nearmap** | Snr Director of ML Ops, Infrastructure and Engineering
+- **Atanexus** | Founder
+- **Atlassian** | Snr Engineering Manager of AIML Platform
+- **Rokt** | Director of Engineering of ML and MLOps
+- **Trendii** | Co-founder & CTO
 
 ---
 
