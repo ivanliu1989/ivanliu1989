@@ -3,6 +3,9 @@
 ### Engineering Leader | AI Specialist | Author
 
 <p align="left">
+  <a href="https://github.com/ivanliu1989">
+    <img src="https://komarev.com/ghpvc/?username=ivanliu1989&label=Profile%20views&color=0e75b6&style=flat" alt="ivanliu1989" />
+  </a>
   <a href="https://www.linkedin.com/in/ivanliu1989/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -13,6 +16,31 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
+
+<p align="left">
+  <a href="https://github.com/ivanliu1989">
+    <img src="https://github-readme-stats.vercel.app/api?username=ivanliu1989&show_icons=true&theme=dracula" alt="ivanliu1989" />
+  </a>
+  <a href="https://github.com/ivanliu1989">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanliu1989&layout=compact&theme=dracula" alt="ivanliu1989" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/ivanliu1989" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ivanliu1989?style=social&logo=twitter" alt="twitter" />
+  </a>
+</p>
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
