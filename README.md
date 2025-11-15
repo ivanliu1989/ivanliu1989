@@ -1,6 +1,6 @@
 # Tianxiang (Ivan) Liu
 
-### Engineering Leader | AI Specialist | Author
+### Engineering Leader | AI Specialist | Founder
 
 <p align="left">
   <a href="https://github.com/ivanliu1989">
@@ -76,9 +76,9 @@ I am a results-oriented engineering leader with a passion for building and scali
 ### 🏆 Awards & Honors
 
 -   **1st & 2nd Prizes at Melbourne Datathon** (2015, 2016, 2017)
--   **Guest Speaker** at Google Cloud Next '19, RMIT University, and more.
+-   **Guest Speaker** at Podcasts, Google Cloud Next, RMIT University, and more.
 -   **Mentor & Industry Supervisor** at RMIT University.
--   **Top 1% in "Otto Group Product Classification Challenge"** on Kaggle.
+-   **Top 1% Data Scientist** on Kaggle.
 
 ---
 
