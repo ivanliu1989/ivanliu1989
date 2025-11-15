@@ -45,6 +45,8 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](undefined) in [ivanliu1989/Predict-click-through-rates-on-display-ads](https://github.com/ivanliu1989/Predict-click-through-rates-on-display-ads)
+2. 💪 Opened PR [#2](undefined) in [ivanliu1989/AVAZU-CTR-Prediction](https://github.com/ivanliu1989/AVAZU-CTR-Prediction)
 <!--END_SECTION:activity-->
 
 ---
