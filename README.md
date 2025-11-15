@@ -35,6 +35,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Success in Machine Learning Interviews: Beyond Technical Skills](https://medium.com/@ivanliu1989/unlocking-success-in-machine-learning-interviews-beyond-technical-skills-c7fbb2b1d647?source=rss-1a29b022afd------2)
+- [What I learned from being An AI Startup Co-Founder and CTO](https://medium.com/data-science/what-i-learned-from-being-an-ai-startup-co-founder-and-cto-285854f3a1ae?source=rss-1a29b022afd------2)
+- [Real-time Mobile Video Object Detection using Tensorflow](https://medium.com/data-science/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d?source=rss-1a29b022afd------2)
+- [Industrializing AI &amp; Machine Learning Applications with Kubeflow](https://medium.com/data-science/industrializing-ai-machine-learning-applications-with-kubeflow-5687bf56153f?source=rss-1a29b022afd------2)
+- [In-App Mapbox Navigation in React Native](https://medium.com/better-programming/in-app-mapbox-navigation-in-react-native-c8b541eee5ab?source=rss-1a29b022afd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Activity
