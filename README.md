@@ -18,6 +18,9 @@
   <a href="https://www.producthunt.com/@tianxiang_liu" target="_blank">
     <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
   </a>
+  <a href="https://x.com/Ivan_Liu_89" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
   <a href="http://atanexus.com/" target="_blank">
     <img src="https://img.shields.io/badge/AtaNexus-000000?style=for-the-badge&logo=safari&logoColor=white" alt="AtaNexus"/>
   </a>
@@ -35,12 +38,6 @@
 <p align="left">
   <a href="https://github.com/ivanliu1989">
     <img src="https://streak-stats.demolab.com?user=ivanliu1989&theme=dracula&hide_border=true" alt="ivanliu1989's GitHub streak" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/ivanliu1989" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ivanliu1989?style=social&logo=twitter" alt="twitter" />
   </a>
 </p>
 
