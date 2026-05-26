@@ -54,6 +54,8 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/ivanliu1989/solo-edge/pull/1) in [ivanliu1989/solo-edge](https://github.com/ivanliu1989/solo-edge)
+2. 💪 Opened PR [#1](https://github.com/ivanliu1989/solo-edge/pull/1) in [ivanliu1989/solo-edge](https://github.com/ivanliu1989/solo-edge)
 <!--END_SECTION:activity-->
 
 ---
