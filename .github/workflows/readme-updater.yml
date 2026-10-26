@@ -2,7 +2,11 @@ name: README Updater
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 0,12 * * *" # Runs twice daily (00:00 and 12:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -11,15 +15,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Update blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@459e78d2225e6b53fa6801528c5e644059c03514 # v1.9.7
         with:
           feed_list: "https://medium.com/feed/@ivanliu1989"
           max_post_count: 5
           readme_path: "./README.md"
           blog_post_list_start_marker: "<!-- BLOG-POST-LIST:START -->"
           blog_post_list_end_marker: "<!-- BLOG-POST-LIST:END -->"
+          disable_html_encoding: true
       - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

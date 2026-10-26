@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="https://github.com/ivanliu1989">
-    <img src="https://komarev.com/ghpvc/?username=ivanliu1989&label=Profile%20views&color=0e75b6&style=flat" alt="ivanliu1989" />
+    <img src="https://komarev.com/ghpvc/?username=ivanliu1989&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ivanliu1989" />
   </a>
   <a href="https://www.linkedin.com/in/ivanliu1989/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ivanliu1989" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -21,7 +21,7 @@
   <a href="https://x.com/Ivan_Liu_89" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
-  <a href="http://atanexus.com/" target="_blank">
+  <a href="https://atanexus.com/" target="_blank">
     <img src="https://img.shields.io/badge/AtaNexus-000000?style=for-the-badge&logo=safari&logoColor=white" alt="AtaNexus"/>
   </a>
 </p>
@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ivanliu1989&show_icons=true&theme=dracula" alt="ivanliu1989's GitHub stats" />
   </a>
   <a href="https://github.com/ivanliu1989">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanliu1989&layout=compact&theme=dracula" alt="ivanliu1989's top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanliu1989&layout=compact&theme=dracula&hide=jupyter%20notebook,html,tcl" alt="ivanliu1989's top languages" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 - [Unlocking Success in Machine Learning Interviews: Beyond Technical Skills](https://medium.com/@ivanliu1989/unlocking-success-in-machine-learning-interviews-beyond-technical-skills-c7fbb2b1d647?source=rss-1a29b022afd------2)
 - [What I learned from being An AI Startup Co-Founder and CTO](https://medium.com/data-science/what-i-learned-from-being-an-ai-startup-co-founder-and-cto-285854f3a1ae?source=rss-1a29b022afd------2)
 - [Real-time Mobile Video Object Detection using Tensorflow](https://medium.com/data-science/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d?source=rss-1a29b022afd------2)
-- [Industrializing AI &amp; Machine Learning Applications with Kubeflow](https://medium.com/data-science/industrializing-ai-machine-learning-applications-with-kubeflow-5687bf56153f?source=rss-1a29b022afd------2)
+- [Industrializing AI & Machine Learning Applications with Kubeflow](https://medium.com/data-science/industrializing-ai-machine-learning-applications-with-kubeflow-5687bf56153f?source=rss-1a29b022afd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Activity
@@ -62,17 +62,17 @@
 
 ### About Me
 
-I'm a results-oriented engineering leader building and scaling AI solutions. Currently **Snr Director of ML Ops, Infrastructure & Engineering at [Nearmap](https://www.nearmap.com/)**, based in Sydney, Australia. My focus is **agentic AI** — agent harnesses, skill engineering, MCP tooling, and the developer ergonomics around them — on top of a deep background in ML, data science, and big-data systems. I'm also the founder of **[AtaNexus](http://atanexus.com/)**, a co-author of two Packt books, and a frequent speaker, mentor, and multi-award datathon winner.
+I'm a results-oriented engineering leader building and scaling AI solutions. Currently **Snr Director of ML Ops, Infrastructure & Engineering at [Nearmap](https://www.nearmap.com/)**, based in Sydney, Australia. My focus is **agentic AI** — agent harnesses, skill engineering, MCP tooling, and the developer ergonomics around them — on top of a deep background in ML, data science, and big-data systems. I'm also the founder of **[AtaNexus](https://atanexus.com/)**, a co-author of two Packt books, and a frequent speaker, mentor, and multi-award datathon winner.
 
 ---
 
 ### 🛠️ Currently Building
 
 -   **Agent harnesses & Claude Code skills** — composable workflows, skill packs, and engineering harnesses that make AI coding agents production-grade.
--   **[solo-edge](https://github.com/ivanliu1989/solo-edge)** — latest experiment in AI-native developer tooling.
--   **MCP servers & clients** — [mcp-client-server](https://github.com/ivanliu1989/mcp-client-server), [mcp-weather](https://github.com/ivanliu1989/mcp-weather) — practical Model Context Protocol patterns.
+-   **[solo-edge](https://github.com/ivanliu1989/solo-edge)** — the AI-fleet harness for solo builders shipping with Claude Code (5 CI gates, 8 production receipts).
+-   **MCP servers & clients** — [mcp-client-server](https://github.com/ivanliu1989/mcp-client-server), [mcp-weather](https://github.com/ivanliu1989/mcp-weather) — practical Model Context Protocol reference implementations.
 -   **[discord-agent](https://github.com/ivanliu1989/discord-agent)** — conversational AI agents on Discord.
--   **[AtaNexus](http://atanexus.com/)** — exploring the next wave of agentic products. Follow new launches on [Product Hunt](https://www.producthunt.com/@tianxiang_liu).
+-   **[AtaNexus](https://atanexus.com/)** — exploring the next wave of agentic products. Follow new launches on [Product Hunt](https://www.producthunt.com/@tianxiang_liu).
 
 ---
 
@@ -92,19 +92,17 @@ I'm a results-oriented engineering leader building and scaling AI solutions. Cur
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOC43NSAxMS4zNWE0LjMyIDQuMzIgMCAwMC0uNzktLjA4IDMuOSAzLjkgMCAwMC0uNzMuMDcgNS4xOCA1LjE4IDAgMDAtOS44LTEuMTVBNC4xMyA0LjEzIDAgMDAzIDE0LjI1YTQuMTggNC4xOCAwIDAwNC4yNSA0LjFoMTEuNWEzLjUgMy41IDAgMDAwLTd6bTMuMDcgNy44MmMtMi42MyAxLjk0LTYuNDUgMi45Ny05LjczIDIuOTctNC42IDAtOC43NS0xLjctMTEuODgtNC41My0uMjUtLjIyLS4wMi0uNTMuMjctLjM1IDMuMzggMS45NyA3LjU3IDMuMTYgMTEuODggMy4xNiAyLjkxIDAgNi4xMi0uNjEgOS4wNy0xLjg2LjQ1LS4xOS44Mi4zLjM5LjYxem0xLjA5LTEuMjVjLS4zNC0uNDMtMi4yMi0uMjEtMy4wNy0uMS0uMjYuMDMtLjMtLjE5LS4wNi0uMzUgMS41LTEuMDUgMy45Ni0uNzUgNC4yNS0uNC4yOS4zNi0uMDcgMi44My0xLjQ5IDQuMDEtLjIyLjE4LS40Mi4wOS0uMzMtLjE1LjMyLS44IDEuMDQtMi41OS43LTMuMDF6Ii8%2BPC9zdmc%2B" alt="AWS" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMS44IDE0LjVjLS42LTEuMS0xLTEuNy0xLTIuNXMuNC0xLjQgMS0yLjVjMS4xLTEuOS43LTQuNC0xLTUuOC0xLjctMS40LTQuMi0xLjMtNS44LjMtLjkuOS0xLjUgMS4zLTIuMiAxLjNoLTEuNmMtLjcgMC0xLjMtLjQtMi4yLTEuMy0xLjYtMS42LTQuMS0xLjctNS44LS4zLTEuNyAxLjQtMi4xIDMuOS0xIDUuOC42IDEuMSAxIDEuNyAxIDIuNXMtLjQgMS40LTEgMi41Yy0xLjEgMS45LS43IDQuNCAxIDUuOCAxLjcgMS40IDQuMiAxLjMgNS44LS4zLjktLjkgMS41LTEuMyAyLjItMS4zaDEuNmMuNyAwIDEuMy40IDIuMiAxLjMgMS42IDEuNiA0LjEgMS43IDUuOC4zIDEuNy0xLjQgMi4xLTMuOSAxLTUuOHpNMTIgMTUuNWEzLjUgMy41IDAgMTEwLTcgMy41IDMuNSAwIDAxMCA3eiIvPjwvc3ZnPg%3D%3D" alt="dbt" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured & Pinned Projects
 
--   **[solo-edge](https://github.com/ivanliu1989/solo-edge)** — current sandbox for AI-native dev tooling experiments.
--   **[mcp-client-server](https://github.com/ivanliu1989/mcp-client-server)** & **[mcp-weather](https://github.com/ivanliu1989/mcp-weather)** — Model Context Protocol reference implementations.
 -   **[AVAZU-CTR-Prediction](https://github.com/ivanliu1989/AVAZU-CTR-Prediction)** — CTR prediction system for online advertising (⭐ 31).
 -   **[Predict-click-through-rates-on-display-ads](https://github.com/ivanliu1989/Predict-click-through-rates-on-display-ads)** — display advertising ML research on Criteo data (⭐ 17).
 -   **[SwiftKey-Natural-language](https://github.com/ivanliu1989/SwiftKey-Natural-language)** — predictive text capstone with SwiftKey (⭐ 16).
@@ -117,7 +115,7 @@ I'm a results-oriented engineering leader building and scaling AI solutions. Cur
 ### 💼 Professional Experience & Ventures
 
 -   **[Nearmap](https://www.nearmap.com/)** — Snr Director of ML Ops, Infrastructure & Engineering *(current)*
--   **[AtaNexus](http://atanexus.com/)** — Founder
+-   **[AtaNexus](https://atanexus.com/)** — Founder
 -   **[Atlassian](https://www.atlassian.com/)** — Snr Engineering Manager, AI/ML Platform
 -   **[Rokt](https://www.rokt.com/)** — Director of Engineering, ML & MLOps
 -   **Trendii** — Co-founder & CTO
@@ -126,8 +124,8 @@ I'm a results-oriented engineering leader building and scaling AI solutions. Cur
 
 ### 📚 Publications
 
--   **The Data Science Workshop** — Packt, Jan 2020
--   **The Python Workshop** — Packt, Aug 2019
+-   **[The Data Science Workshop](https://github.com/PacktWorkshops/The-Data-Science-Workshop)** — Packt, Jan 2020
+-   **[The Python Workshop](https://github.com/PacktWorkshops/The-Python-Workshop)** — Packt, Aug 2019
 
 ---
 
