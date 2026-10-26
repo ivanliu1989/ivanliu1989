@@ -1,6 +1,6 @@
 # Tianxiang (Ivan) Liu
 
-### Engineering Leader · Agentic AI Builder · Founder · Author
+### Engineering Leader · Agentic AI Builder · Founder & Angel Investor · Author
 
 <p align="left">
   <a href="https://github.com/ivanliu1989">
@@ -62,17 +62,19 @@
 
 ### About Me
 
-I'm a results-oriented engineering leader building and scaling AI solutions. Currently **Snr Director of ML Ops, Infrastructure & Engineering at [Nearmap](https://www.nearmap.com/)**, based in Sydney, Australia. My focus is **agentic AI** — agent harnesses, skill engineering, MCP tooling, and the developer ergonomics around them — on top of a deep background in ML, data science, and big-data systems. I'm also the founder of **[AtaNexus](https://atanexus.com/)**, a co-author of two Packt books, and a frequent speaker, mentor, and multi-award datathon winner.
+I'm a results-oriented engineering leader focused on turning rapidly evolving AI capabilities into systems that work reliably, at scale, in the real world. Currently **Forward Deployed Engineering Head, Gen AI at [Google](https://cloud.google.com/)**, based in Sydney, Australia — leading Forward Deployed Engineering (FDE) and AI Customer Engineering for Google Cloud's Digital Natives & Startups business across Australia and New Zealand.
+
+Alongside my role at Google, I'm the **Founder & Angel Investor at [AtaNexus](https://atanexus.com/)**, building human-centered AI agents and investing in early-stage technology companies across AI infrastructure, developer tools, and applied AI. My product thesis is that as AI systems become more capable, the bottleneck in software creation increasingly shifts from implementation to context, judgment, and knowing what to build. I'm also a co-author of two Packt books, an active angel investor (**Innovation Bay**, **Archangel Ventures**, **Startmate**), and a frequent speaker, mentor, and multi-award datathon winner.
 
 ---
 
-### 🛠️ Currently Building
+### 🛠️ Currently Building & Investing
 
--   **Agent harnesses & Claude Code skills** — composable workflows, skill packs, and engineering harnesses that make AI coding agents production-grade.
--   **[solo-edge](https://github.com/ivanliu1989/solo-edge)** — the AI-fleet harness for solo builders shipping with Claude Code (5 CI gates, 8 production receipts).
--   **MCP servers & clients** — [mcp-client-server](https://github.com/ivanliu1989/mcp-client-server), [mcp-weather](https://github.com/ivanliu1989/mcp-weather) — practical Model Context Protocol reference implementations.
--   **[discord-agent](https://github.com/ivanliu1989/discord-agent)** — conversational AI agents on Discord.
--   **[AtaNexus](https://atanexus.com/)** — exploring the next wave of agentic products. Follow new launches on [Product Hunt](https://www.producthunt.com/@tianxiang_liu).
+-   **Production GenAI & Agentic Systems** — partnering with high-growth technology companies and startups across AuNZ to design, prototype, and productionise agentic AI solutions on Google Cloud.
+-   **[AtaNexus](https://atanexus.com/)** — studio for AI agents that actually help, with 5 live products in production: **LeapEdge Clip** (YouTube-to-trade research dossier powered by Gemini), **LeapEdge** (DITM LEAP options scanner), **MyPathOS** (AI-powered destiny mapping), **CitizenReady** (AI citizenship coach), and **Prompt Cheat** (Chrome extension prompt-ops toolkit). Follow launches on [Product Hunt](https://www.producthunt.com/@tianxiang_liu).
+-   **[solo-edge](https://github.com/ivanliu1989/solo-edge)** — the AI-fleet harness for solo builders shipping with coding agents (5 CI gates, 8 production receipts).
+-   **Agent harnesses, evaluation & MCP tooling** — composable workflows, model migration & eval gates, and Model Context Protocol reference implementations ([mcp-client-server](https://github.com/ivanliu1989/mcp-client-server), [mcp-weather](https://github.com/ivanliu1989/mcp-weather)).
+-   **Early-Stage Angel Investing** — backing ambitious founders in AI infrastructure, developer tools, and applied AI through **AtaNexus**, **Innovation Bay**, **Archangel Ventures** (LP), and **Startmate** (*First Believers*).
 
 ---
 
@@ -95,6 +97,7 @@ I'm a results-oriented engineering leader building and scaling AI solutions. Cur
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOC43NSAxMS4zNWE0LjMyIDQuMzIgMCAwMC0uNzktLjA4IDMuOSAzLjkgMCAwMC0uNzMuMDcgNS4xOCA1LjE4IDAgMDAtOS44LTEuMTVBNC4xMyA0LjEzIDAgMDAzIDE0LjI1YTQuMTggNC4xOCAwIDAwNC4yNSA0LjFoMTEuNWEzLjUgMy41IDAgMDAwLTd6bTMuMDcgNy44MmMtMi42MyAxLjk0LTYuNDUgMi45Ny05LjczIDIuOTctNC42IDAtOC43NS0xLjctMTEuODgtNC41My0uMjUtLjIyLS4wMi0uNTMuMjctLjM1IDMuMzggMS45NyA3LjU3IDMuMTYgMTEuODggMy4xNiAyLjkxIDAgNi4xMi0uNjEgOS4wNy0xLjg2LjQ1LS4xOS44Mi4zLjM5LjYxem0xLjA5LTEuMjVjLS4zNC0uNDMtMi4yMi0uMjEtMy4wNy0uMS0uMjYuMDMtLjMtLjE5LS4wNi0uMzUgMS41LTEuMDUgMy45Ni0uNzUgNC4yNS0uNC4yOS4zNi0uMDcgMi44My0xLjQ5IDQuMDEtLjIyLjE4LS40Mi4wOS0uMzMtLjE1LjMyLS44IDEuMDQtMi41OS43LTMuMDF6Ii8%2BPC9zdmc%2B" alt="AWS" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMS44IDE0LjVjLS42LTEuMS0xLTEuNy0xLTIuNXMuNC0xLjQgMS0yLjVjMS4xLTEuOS43LTQuNC0xLTUuOC0xLjctMS40LTQuMi0xLjMtNS44LjMtLjkuOS0xLjUgMS4zLTIuMiAxLjNoLTEuNmMtLjcgMC0xLjMtLjQtMi4yLTEuMy0xLjYtMS42LTQuMS0xLjctNS44LS4zLTEuNyAxLjQtMi4xIDMuOS0xIDUuOC42IDEuMSAxIDEuNyAxIDIuNXMtLjQgMS40LTEgMi41Yy0xLjEgMS45LS43IDQuNCAxIDUuOCAxLjcgMS40IDQuMiAxLjMgNS44LS4zLjktLjkgMS41LTEuMyAyLjItMS4zaDEuNmMuNyAwIDEuMy40IDIuMiAxLjMgMS42IDEuNiA0LjEgMS43IDUuOC4zIDEuNy0xLjQgMi4xLTMuOSAxLTUuOHpNMTIgMTUuNWEzLjUgMy41IDAgMTEwLTcgMy41IDMuNSAwIDAxMCA3eiIvPjwvc3ZnPg%3D%3D" alt="dbt" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 </p>
@@ -114,11 +117,21 @@ I'm a results-oriented engineering leader building and scaling AI solutions. Cur
 
 ### 💼 Professional Experience & Ventures
 
--   **[Nearmap](https://www.nearmap.com/)** — Snr Director of ML Ops, Infrastructure & Engineering *(current)*
--   **[AtaNexus](https://atanexus.com/)** — Founder
+-   **[Google](https://cloud.google.com/)** — Forward Deployed Engineering Head, Gen AI *(current)*
+-   **[AtaNexus](https://atanexus.com/)** — Founder & Angel Investor *(current)*
+-   **[Nearmap](https://www.nearmap.com/)** — Snr Director of ML Ops, Infrastructure & Engineering
 -   **[Atlassian](https://www.atlassian.com/)** — Snr Engineering Manager, AI/ML Platform
 -   **[Rokt](https://www.rokt.com/)** — Director of Engineering, ML & MLOps
 -   **Trendii** — Co-founder & CTO
+
+---
+
+### 🌱 Angel Investing & Startup Ecosystem
+
+-   **[AtaNexus](https://atanexus.com/)** — Founder & Angel Investor (AI infrastructure, developer tools & applied AI)
+-   **[Innovation Bay](https://innovationbay.com/)** — Angel Investor
+-   **[Archangel Ventures](https://www.archangel.vc/)** — Limited Partner
+-   **[Startmate](https://www.startmate.com/)** — First Believers, Angel Investing
 
 ---
 
